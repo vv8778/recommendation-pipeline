@@ -1,0 +1,67 @@
+# End-to-End Recommendation System Pipeline Configuration
+
+pipeline:
+  name: "recommendation-pipeline"
+  version: "1.0.0"
+  random_seed: 42
+
+paths:
+  base_dir: "C:/Users/vishw/.gemini/antigravity/scratch/recommendation-pipeline"
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  features_data_dir: "data/features"
+  errors_data_dir: "data/errors"
+  models_dir: "models"
+  reports_dir: "reports"
+  mlflow_tracking_uri: "sqlite:///models/mlflow.db"
+
+ingestion:
+  source_type: "movielens_synthetic" # Options: movielens_100k, movielens_synthetic
+  num_users: 1000
+  num_items: 500
+  num_interactions: 50000
+  inject_noise_for_validation: true
+  noise_fraction: 0.02 # Deliberately inject 2% invalid records to test validation quarantine
+
+validation:
+  min_rating: 1.0
+  max_rating: 5.0
+  max_missing_threshold: 0.05
+  enforce_referential_integrity: true
+  quarantine_invalid_records: true
+
+preparation:
+  time_split_ratio: 0.80 # 80% train, 20% test chronologically per user
+  min_user_interactions: 3
+  min_item_interactions: 2
+
+features:
+  user_activity_bins: [0, 10, 50, 100, 1000]
+  user_activity_labels: ["casual", "moderate", "active", "power"]
+  item_popularity_bins: [0, 10, 50, 150, 10000]
+  item_popularity_labels: ["niche", "developing", "popular", "blockbuster"]
+
+models:
+  baseline_popularity:
+    min_rating_threshold: 3.5
+    bayesian_prior_weight: 10.0
+    top_k: 10
+
+  collaborative_svd:
+    n_factors: 20
+    learning_rate: 0.005
+    regularization: 0.02
+    n_epochs: 20
+    top_k: 10
+
+evaluation:
+  top_k_list: [5, 10]
+  relevance_rating_threshold: 4.0 # Items rated >= 4.0 are considered relevant ground-truth
+  metrics:
+    - "Precision@K"
+    - "Recall@K"
+    - "NDCG@K"
+    - "Catalog_Coverage"
+    - "Intra_List_Diversity"
+    - "RMSE"
+    - "MAE"

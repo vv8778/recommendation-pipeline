@@ -1,0 +1,595 @@
+user_id,item_id,rating,timestamp,error_reason
+271,279,,1734692987,Missing values in interaction record
+572,111,,1759946678,Missing values in interaction record
+53,42,,1710141255,Missing values in interaction record
+886,158,,1736869096,Missing values in interaction record
+279,257,,1751008207,Missing values in interaction record
+957,143,,1718399091,Missing values in interaction record
+271,483,,1736415941,Missing values in interaction record
+3,443,,1742631220,Missing values in interaction record
+549,141,,1727414247,Missing values in interaction record
+271,233,,1707797273,Missing values in interaction record
+568,277,,1761210513,Missing values in interaction record
+685,334,,1743252734,Missing values in interaction record
+311,334,,1732162857,Missing values in interaction record
+103,65,,1764988136,Missing values in interaction record
+202,337,,1709779801,Missing values in interaction record
+80,365,,1719161941,Missing values in interaction record
+951,126,,1728028733,Missing values in interaction record
+279,208,,1705909314,Missing values in interaction record
+732,201,,1764721681,Missing values in interaction record
+357,182,,1757251136,Missing values in interaction record
+721,182,,1717502671,Missing values in interaction record
+358,182,,1765419858,Missing values in interaction record
+557,108,,1757695812,Missing values in interaction record
+752,452,,1719117772,Missing values in interaction record
+628,58,,1739267018,Missing values in interaction record
+537,311,,1714855331,Missing values in interaction record
+41,399,,1729358348,Missing values in interaction record
+912,371,,1733139981,Missing values in interaction record
+198,182,,1765245668,Missing values in interaction record
+356,343,,1747924454,Missing values in interaction record
+825,413,,1711866736,Missing values in interaction record
+686,112,,1739671640,Missing values in interaction record
+493,167,,1730624190,Missing values in interaction record
+886,373,,1723378825,Missing values in interaction record
+833,199,,1709526851,Missing values in interaction record
+536,277,,1740706579,Missing values in interaction record
+784,295,,1759212074,Missing values in interaction record
+879,383,,1746267564,Missing values in interaction record
+731,7,,1746299393,Missing values in interaction record
+232,181,,1759180710,Missing values in interaction record
+124,320,,1750104730,Missing values in interaction record
+939,160,,1721676124,Missing values in interaction record
+991,52,,1717879337,Missing values in interaction record
+702,279,,1710088316,Missing values in interaction record
+774,497,,1738006258,Missing values in interaction record
+905,434,,1712563935,Missing values in interaction record
+723,20,,1709388812,Missing values in interaction record
+34,157,,1710300730,Missing values in interaction record
+742,428,,1705866690,Missing values in interaction record
+648,170,,1750198279,Missing values in interaction record
+470,28,,1737480212,Missing values in interaction record
+741,371,,1734842511,Missing values in interaction record
+198,42,,1756240460,Missing values in interaction record
+169,450,,1730468583,Missing values in interaction record
+178,129,,1716092741,Missing values in interaction record
+608,14,,1714383808,Missing values in interaction record
+354,408,,1715834630,Missing values in interaction record
+163,170,,1720535209,Missing values in interaction record
+87,411,,1725373226,Missing values in interaction record
+366,463,,1732570892,Missing values in interaction record
+777,81,,1729591017,Missing values in interaction record
+547,80,,1729951996,Missing values in interaction record
+791,443,,1722217206,Missing values in interaction record
+928,85,,1754835608,Missing values in interaction record
+894,280,,1717728004,Missing values in interaction record
+181,460,,1761131034,Missing values in interaction record
+185,281,,1745086564,Missing values in interaction record
+846,209,,1713100818,Missing values in interaction record
+988,279,,1735522768,Missing values in interaction record
+468,243,,1747480076,Missing values in interaction record
+966,377,,1739085675,Missing values in interaction record
+660,393,,1758884154,Missing values in interaction record
+227,257,,1759712771,Missing values in interaction record
+777,434,,1761482897,Missing values in interaction record
+279,73,,1726023430,Missing values in interaction record
+307,182,,1753856577,Missing values in interaction record
+817,115,,1708944539,Missing values in interaction record
+327,126,,1761520398,Missing values in interaction record
+244,166,,1754414872,Missing values in interaction record
+734,257,,1737247313,Missing values in interaction record
+700,110,,1720605920,Missing values in interaction record
+265,255,,1765977810,Missing values in interaction record
+587,50,,1765276978,Missing values in interaction record
+206,257,,1725365482,Missing values in interaction record
+327,359,,1753450495,Missing values in interaction record
+865,387,,1756565942,Missing values in interaction record
+271,446,,1756194833,Missing values in interaction record
+167,383,,1712205134,Missing values in interaction record
+395,367,,1709660871,Missing values in interaction record
+514,141,,1745875331,Missing values in interaction record
+696,104,,1763659634,Missing values in interaction record
+468,385,,1727546888,Missing values in interaction record
+987,369,,1724466801,Missing values in interaction record
+540,444,,1720865518,Missing values in interaction record
+518,310,,1724149563,Missing values in interaction record
+474,198,,1729533444,Missing values in interaction record
+653,123,,1733519247,Missing values in interaction record
+909,342,,1734305796,Missing values in interaction record
+959,187,,1746013876,Missing values in interaction record
+110,479,,1759679306,Missing values in interaction record
+585,229,,1737998400,Missing values in interaction record
+795,329,,1756417723,Missing values in interaction record
+32,80,,1739340399,Missing values in interaction record
+541,216,,1752444896,Missing values in interaction record
+969,324,,1737372277,Missing values in interaction record
+897,131,,1726002189,Missing values in interaction record
+419,438,,1723886407,Missing values in interaction record
+838,342,,1737007592,Missing values in interaction record
+48,60,,1717081888,Missing values in interaction record
+668,146,,1721503963,Missing values in interaction record
+532,285,,1726472336,Missing values in interaction record
+754,14,,1712592371,Missing values in interaction record
+350,352,,1704309418,Missing values in interaction record
+741,293,,1718225817,Missing values in interaction record
+53,471,,1719206346,Missing values in interaction record
+763,371,,1708637435,Missing values in interaction record
+999999,284,3.0,1715246045,Duplicate user-item interaction
+999999,277,4.0,1755740531,Duplicate user-item interaction
+999999,410,3.0,1715783567,Duplicate user-item interaction
+279,888888,2.0,1737453211,Duplicate user-item interaction
+970,888888,4.0,1717783828,Duplicate user-item interaction
+999999,410,3.0,1751244874,Duplicate user-item interaction
+999999,277,4.0,1724867710,Duplicate user-item interaction
+999999,182,3.0,1720405235,Duplicate user-item interaction
+279,888888,4.0,1719014684,Duplicate user-item interaction
+279,888888,4.0,1732316691,Duplicate user-item interaction
+385,888888,1.0,1741773028,Duplicate user-item interaction
+279,888888,4.0,1713788789,Duplicate user-item interaction
+999999,126,3.0,1749711516,Duplicate user-item interaction
+999999,126,4.0,1743471547,Duplicate user-item interaction
+999999,277,4.0,1742595361,Duplicate user-item interaction
+999999,182,3.0,1752670347,Duplicate user-item interaction
+999999,410,3.0,1723794903,Duplicate user-item interaction
+999999,239,3.0,1764490400,Duplicate user-item interaction
+999999,482,4.0,1745687231,Duplicate user-item interaction
+474,888888,2.0,1766444379,Duplicate user-item interaction
+999999,182,3.0,1726132700,Duplicate user-item interaction
+999999,182,4.0,1715715473,Duplicate user-item interaction
+999999,367,4.0,1746573569,Duplicate user-item interaction
+999999,182,4.0,1763208487,Duplicate user-item interaction
+999999,491,5.0,1730136370,Duplicate user-item interaction
+44,888888,4.0,1710383096,Duplicate user-item interaction
+999999,239,5.0,1721451689,Duplicate user-item interaction
+999999,187,4.0,1747358900,Duplicate user-item interaction
+771,888888,2.0,1705518313,Duplicate user-item interaction
+124,888888,3.0,1753882429,Duplicate user-item interaction
+271,888888,2.0,1749273809,Duplicate user-item interaction
+641,888888,5.0,1713777981,Duplicate user-item interaction
+124,888888,2.0,1734919394,Duplicate user-item interaction
+999999,50,4.0,1712024231,Duplicate user-item interaction
+459,888888,3.0,1760881590,Duplicate user-item interaction
+356,888888,3.0,1713339686,Duplicate user-item interaction
+886,888888,4.0,1718884501,Duplicate user-item interaction
+970,888888,3.0,1737774831,Duplicate user-item interaction
+999999,150,5.0,1747184417,Duplicate user-item interaction
+178,888888,5.0,1743172930,Duplicate user-item interaction
+999999,410,4.0,1754290527,Duplicate user-item interaction
+999999,182,2.0,1710049551,Duplicate user-item interaction
+187,181,4.0,1713045159,Duplicate user-item interaction
+513,410,4.0,1721352271,Duplicate user-item interaction
+276,131,5.0,1730803143,Duplicate user-item interaction
+723,425,5.0,1730035186,Duplicate user-item interaction
+826,277,4.0,1736518679,Duplicate user-item interaction
+703,423,3.0,1753301702,Duplicate user-item interaction
+723,103,3.0,1761340237,Duplicate user-item interaction
+487,256,4.0,1764132289,Duplicate user-item interaction
+700,182,4.0,1712441707,Duplicate user-item interaction
+385,888888,3.0,1745787375,Duplicate user-item interaction
+660,182,5.0,1716675158,Duplicate user-item interaction
+271,277,2.0,1750872129,Duplicate user-item interaction
+90,392,1.0,1740070096,Duplicate user-item interaction
+372,130,5.0,1715275994,Duplicate user-item interaction
+442,42,5.0,1720740301,Duplicate user-item interaction
+718,279,5.0,1721521965,Duplicate user-item interaction
+999999,313,3.0,1713387936,Duplicate user-item interaction
+241,216,4.0,1757679093,Duplicate user-item interaction
+737,60,4.0,1712014320,Duplicate user-item interaction
+406,203,4.0,1757003872,Duplicate user-item interaction
+991,334,9.5,1718823631,"Rating out of valid range [1.0, 5.0]"
+5,109,9.5,1738851455,"Rating out of valid range [1.0, 5.0]"
+232,42,9.5,1755648873,"Rating out of valid range [1.0, 5.0]"
+746,124,9.5,1705481087,"Rating out of valid range [1.0, 5.0]"
+24,126,9.5,1735429984,"Rating out of valid range [1.0, 5.0]"
+376,452,9.5,1716885155,"Rating out of valid range [1.0, 5.0]"
+304,279,9.5,1766505674,"Rating out of valid range [1.0, 5.0]"
+287,126,9.5,1728189545,"Rating out of valid range [1.0, 5.0]"
+261,126,9.5,1744389294,"Rating out of valid range [1.0, 5.0]"
+672,489,9.5,1714617753,"Rating out of valid range [1.0, 5.0]"
+120,126,9.5,1759030199,"Rating out of valid range [1.0, 5.0]"
+527,277,9.5,1738251073,"Rating out of valid range [1.0, 5.0]"
+367,423,9.5,1712539099,"Rating out of valid range [1.0, 5.0]"
+401,216,9.5,1737866031,"Rating out of valid range [1.0, 5.0]"
+793,74,9.5,1727611831,"Rating out of valid range [1.0, 5.0]"
+513,140,9.5,1747628987,"Rating out of valid range [1.0, 5.0]"
+915,478,9.5,1739336505,"Rating out of valid range [1.0, 5.0]"
+551,131,9.5,1741136009,"Rating out of valid range [1.0, 5.0]"
+453,367,9.5,1754646540,"Rating out of valid range [1.0, 5.0]"
+263,410,9.5,1715242202,"Rating out of valid range [1.0, 5.0]"
+738,11,9.5,1758104625,"Rating out of valid range [1.0, 5.0]"
+794,290,9.5,1740853787,"Rating out of valid range [1.0, 5.0]"
+311,367,9.5,1709130597,"Rating out of valid range [1.0, 5.0]"
+700,367,9.5,1707191983,"Rating out of valid range [1.0, 5.0]"
+796,15,9.5,1716125157,"Rating out of valid range [1.0, 5.0]"
+152,71,9.5,1735013881,"Rating out of valid range [1.0, 5.0]"
+320,182,9.5,1708092039,"Rating out of valid range [1.0, 5.0]"
+962,59,9.5,1730891944,"Rating out of valid range [1.0, 5.0]"
+833,367,9.5,1742288304,"Rating out of valid range [1.0, 5.0]"
+256,226,9.5,1720070071,"Rating out of valid range [1.0, 5.0]"
+41,365,9.5,1714580290,"Rating out of valid range [1.0, 5.0]"
+122,126,9.5,1736222483,"Rating out of valid range [1.0, 5.0]"
+670,429,9.5,1730071979,"Rating out of valid range [1.0, 5.0]"
+830,367,9.5,1764422956,"Rating out of valid range [1.0, 5.0]"
+227,284,9.5,1761135435,"Rating out of valid range [1.0, 5.0]"
+124,4,9.5,1710210586,"Rating out of valid range [1.0, 5.0]"
+120,293,9.5,1752346431,"Rating out of valid range [1.0, 5.0]"
+679,112,9.5,1758942938,"Rating out of valid range [1.0, 5.0]"
+857,271,9.5,1731616698,"Rating out of valid range [1.0, 5.0]"
+588,277,9.5,1708645088,"Rating out of valid range [1.0, 5.0]"
+762,292,9.5,1711287243,"Rating out of valid range [1.0, 5.0]"
+7,85,9.5,1758462219,"Rating out of valid range [1.0, 5.0]"
+240,223,9.5,1724630897,"Rating out of valid range [1.0, 5.0]"
+335,494,9.5,1725149702,"Rating out of valid range [1.0, 5.0]"
+561,60,9.5,1750412410,"Rating out of valid range [1.0, 5.0]"
+666,80,9.5,1744951933,"Rating out of valid range [1.0, 5.0]"
+805,324,9.5,1751916023,"Rating out of valid range [1.0, 5.0]"
+168,201,9.5,1757683483,"Rating out of valid range [1.0, 5.0]"
+314,50,9.5,1710909311,"Rating out of valid range [1.0, 5.0]"
+198,414,9.5,1722084246,"Rating out of valid range [1.0, 5.0]"
+879,188,9.5,1712053602,"Rating out of valid range [1.0, 5.0]"
+23,109,9.5,1707976208,"Rating out of valid range [1.0, 5.0]"
+474,421,9.5,1725821193,"Rating out of valid range [1.0, 5.0]"
+530,147,9.5,1735449325,"Rating out of valid range [1.0, 5.0]"
+277,190,9.5,1758023589,"Rating out of valid range [1.0, 5.0]"
+956,386,9.5,1708757128,"Rating out of valid range [1.0, 5.0]"
+31,139,9.5,1763426487,"Rating out of valid range [1.0, 5.0]"
+474,360,9.5,1732253400,"Rating out of valid range [1.0, 5.0]"
+479,9,9.5,1758578951,"Rating out of valid range [1.0, 5.0]"
+714,279,9.5,1763539702,"Rating out of valid range [1.0, 5.0]"
+647,145,9.5,1737085610,"Rating out of valid range [1.0, 5.0]"
+547,130,9.5,1748063396,"Rating out of valid range [1.0, 5.0]"
+503,58,9.5,1722828908,"Rating out of valid range [1.0, 5.0]"
+503,323,9.5,1739899227,"Rating out of valid range [1.0, 5.0]"
+227,230,9.5,1766115005,"Rating out of valid range [1.0, 5.0]"
+696,365,9.5,1750948843,"Rating out of valid range [1.0, 5.0]"
+240,130,9.5,1722605439,"Rating out of valid range [1.0, 5.0]"
+970,48,9.5,1714226908,"Rating out of valid range [1.0, 5.0]"
+487,279,9.5,1739225785,"Rating out of valid range [1.0, 5.0]"
+211,126,9.5,1766300074,"Rating out of valid range [1.0, 5.0]"
+23,182,9.5,1760742227,"Rating out of valid range [1.0, 5.0]"
+552,498,9.5,1725260105,"Rating out of valid range [1.0, 5.0]"
+475,20,9.5,1711386117,"Rating out of valid range [1.0, 5.0]"
+903,380,9.5,1751571185,"Rating out of valid range [1.0, 5.0]"
+672,187,9.5,1764650837,"Rating out of valid range [1.0, 5.0]"
+147,445,9.5,1766395125,"Rating out of valid range [1.0, 5.0]"
+269,483,9.5,1732184986,"Rating out of valid range [1.0, 5.0]"
+659,365,9.5,1755078988,"Rating out of valid range [1.0, 5.0]"
+726,170,9.5,1720574033,"Rating out of valid range [1.0, 5.0]"
+271,409,9.5,1761025795,"Rating out of valid range [1.0, 5.0]"
+191,293,9.5,1712715457,"Rating out of valid range [1.0, 5.0]"
+808,29,9.5,1758270583,"Rating out of valid range [1.0, 5.0]"
+752,95,9.5,1720315750,"Rating out of valid range [1.0, 5.0]"
+136,71,9.5,1730997194,"Rating out of valid range [1.0, 5.0]"
+71,216,9.5,1713440564,"Rating out of valid range [1.0, 5.0]"
+159,60,9.5,1741717558,"Rating out of valid range [1.0, 5.0]"
+886,243,9.5,1710043753,"Rating out of valid range [1.0, 5.0]"
+660,396,9.5,1707848118,"Rating out of valid range [1.0, 5.0]"
+846,60,9.5,1742718179,"Rating out of valid range [1.0, 5.0]"
+553,324,9.5,1760029580,"Rating out of valid range [1.0, 5.0]"
+734,98,9.5,1734470224,"Rating out of valid range [1.0, 5.0]"
+856,7,9.5,1721497400,"Rating out of valid range [1.0, 5.0]"
+994,367,9.5,1729365171,"Rating out of valid range [1.0, 5.0]"
+656,391,9.5,1726480150,"Rating out of valid range [1.0, 5.0]"
+484,377,9.5,1714521688,"Rating out of valid range [1.0, 5.0]"
+829,20,9.5,1744713253,"Rating out of valid range [1.0, 5.0]"
+120,374,9.5,1756343825,"Rating out of valid range [1.0, 5.0]"
+206,277,9.5,1718783079,"Rating out of valid range [1.0, 5.0]"
+963,366,9.5,1744253579,"Rating out of valid range [1.0, 5.0]"
+839,226,9.5,1722821784,"Rating out of valid range [1.0, 5.0]"
+279,90,9.5,1765982856,"Rating out of valid range [1.0, 5.0]"
+709,464,9.5,1761406746,"Rating out of valid range [1.0, 5.0]"
+21,181,9.5,1715104830,"Rating out of valid range [1.0, 5.0]"
+110,53,9.5,1729380486,"Rating out of valid range [1.0, 5.0]"
+171,380,9.5,1733962007,"Rating out of valid range [1.0, 5.0]"
+721,452,9.5,1714150819,"Rating out of valid range [1.0, 5.0]"
+397,237,9.5,1746772578,"Rating out of valid range [1.0, 5.0]"
+498,410,9.5,1727479011,"Rating out of valid range [1.0, 5.0]"
+93,42,9.5,1734143600,"Rating out of valid range [1.0, 5.0]"
+136,333,9.5,1752825164,"Rating out of valid range [1.0, 5.0]"
+213,97,9.5,1725989361,"Rating out of valid range [1.0, 5.0]"
+282,239,9.5,1727250114,"Rating out of valid range [1.0, 5.0]"
+223,18,9.5,1742218618,"Rating out of valid range [1.0, 5.0]"
+594,80,9.5,1726937686,"Rating out of valid range [1.0, 5.0]"
+858,483,9.5,1718313225,"Rating out of valid range [1.0, 5.0]"
+329,405,3.0,2051202600,Timestamp is in the future or non-positive
+495,58,4.0,2051202600,Timestamp is in the future or non-positive
+168,134,4.0,2051202600,Timestamp is in the future or non-positive
+106,277,3.0,2051202600,Timestamp is in the future or non-positive
+317,277,3.0,2051202600,Timestamp is in the future or non-positive
+356,130,5.0,2051202600,Timestamp is in the future or non-positive
+279,276,4.0,2051202600,Timestamp is in the future or non-positive
+832,182,4.0,2051202600,Timestamp is in the future or non-positive
+290,126,2.0,2051202600,Timestamp is in the future or non-positive
+201,277,4.0,2051202600,Timestamp is in the future or non-positive
+396,126,4.0,2051202600,Timestamp is in the future or non-positive
+634,463,1.0,2051202600,Timestamp is in the future or non-positive
+528,61,4.0,2051202600,Timestamp is in the future or non-positive
+163,377,5.0,2051202600,Timestamp is in the future or non-positive
+660,195,2.0,2051202600,Timestamp is in the future or non-positive
+339,423,4.0,2051202600,Timestamp is in the future or non-positive
+425,348,2.0,2051202600,Timestamp is in the future or non-positive
+339,182,3.0,2051202600,Timestamp is in the future or non-positive
+129,458,5.0,2051202600,Timestamp is in the future or non-positive
+984,449,4.0,2051202600,Timestamp is in the future or non-positive
+990,111,3.0,2051202600,Timestamp is in the future or non-positive
+121,363,4.0,2051202600,Timestamp is in the future or non-positive
+893,182,5.0,2051202600,Timestamp is in the future or non-positive
+904,130,4.0,2051202600,Timestamp is in the future or non-positive
+916,187,5.0,2051202600,Timestamp is in the future or non-positive
+564,109,1.0,2051202600,Timestamp is in the future or non-positive
+449,365,5.0,2051202600,Timestamp is in the future or non-positive
+867,216,5.0,2051202600,Timestamp is in the future or non-positive
+9,231,5.0,2051202600,Timestamp is in the future or non-positive
+338,390,5.0,2051202600,Timestamp is in the future or non-positive
+960,182,5.0,2051202600,Timestamp is in the future or non-positive
+212,255,2.0,2051202600,Timestamp is in the future or non-positive
+538,187,4.0,2051202600,Timestamp is in the future or non-positive
+459,59,1.0,2051202600,Timestamp is in the future or non-positive
+727,80,4.0,2051202600,Timestamp is in the future or non-positive
+31,293,5.0,2051202600,Timestamp is in the future or non-positive
+767,355,5.0,2051202600,Timestamp is in the future or non-positive
+279,441,3.0,2051202600,Timestamp is in the future or non-positive
+940,133,3.0,2051202600,Timestamp is in the future or non-positive
+939,157,5.0,2051202600,Timestamp is in the future or non-positive
+34,280,4.0,2051202600,Timestamp is in the future or non-positive
+770,277,5.0,2051202600,Timestamp is in the future or non-positive
+727,293,3.0,2051202600,Timestamp is in the future or non-positive
+390,277,2.0,2051202600,Timestamp is in the future or non-positive
+652,330,4.0,2051202600,Timestamp is in the future or non-positive
+348,191,4.0,2051202600,Timestamp is in the future or non-positive
+886,286,3.0,2051202600,Timestamp is in the future or non-positive
+382,176,2.0,2051202600,Timestamp is in the future or non-positive
+275,14,5.0,2051202600,Timestamp is in the future or non-positive
+916,160,1.0,2051202600,Timestamp is in the future or non-positive
+669,317,5.0,2051202600,Timestamp is in the future or non-positive
+998,133,3.0,2051202600,Timestamp is in the future or non-positive
+988,133,4.0,2051202600,Timestamp is in the future or non-positive
+750,60,2.0,2051202600,Timestamp is in the future or non-positive
+100,181,5.0,2051202600,Timestamp is in the future or non-positive
+53,465,1.0,2051202600,Timestamp is in the future or non-positive
+65,277,2.0,2051202600,Timestamp is in the future or non-positive
+261,260,3.0,2051202600,Timestamp is in the future or non-positive
+616,371,4.0,2051202600,Timestamp is in the future or non-positive
+120,278,2.0,2051202600,Timestamp is in the future or non-positive
+320,421,3.0,2051202600,Timestamp is in the future or non-positive
+100,126,4.0,2051202600,Timestamp is in the future or non-positive
+216,324,2.0,2051202600,Timestamp is in the future or non-positive
+728,413,4.0,2051202600,Timestamp is in the future or non-positive
+762,53,1.0,2051202600,Timestamp is in the future or non-positive
+179,134,4.0,2051202600,Timestamp is in the future or non-positive
+544,19,5.0,2051202600,Timestamp is in the future or non-positive
+898,99,5.0,2051202600,Timestamp is in the future or non-positive
+777,322,5.0,2051202600,Timestamp is in the future or non-positive
+839,181,2.0,2051202600,Timestamp is in the future or non-positive
+983,410,4.0,2051202600,Timestamp is in the future or non-positive
+900,367,5.0,2051202600,Timestamp is in the future or non-positive
+777,3,3.0,2051202600,Timestamp is in the future or non-positive
+152,318,5.0,2051202600,Timestamp is in the future or non-positive
+359,112,4.0,2051202600,Timestamp is in the future or non-positive
+962,82,5.0,2051202600,Timestamp is in the future or non-positive
+50,450,3.0,2051202600,Timestamp is in the future or non-positive
+164,499,5.0,2051202600,Timestamp is in the future or non-positive
+421,440,5.0,2051202600,Timestamp is in the future or non-positive
+295,298,3.0,2051202600,Timestamp is in the future or non-positive
+932,226,2.0,2051202600,Timestamp is in the future or non-positive
+790,447,3.0,2051202600,Timestamp is in the future or non-positive
+487,385,5.0,2051202600,Timestamp is in the future or non-positive
+936,279,3.0,2051202600,Timestamp is in the future or non-positive
+670,439,4.0,2051202600,Timestamp is in the future or non-positive
+106,343,4.0,2051202600,Timestamp is in the future or non-positive
+986,279,4.0,2051202600,Timestamp is in the future or non-positive
+169,6,5.0,2051202600,Timestamp is in the future or non-positive
+166,224,5.0,2051202600,Timestamp is in the future or non-positive
+165,465,3.0,2051202600,Timestamp is in the future or non-positive
+444,212,3.0,2051202600,Timestamp is in the future or non-positive
+279,431,4.0,2051202600,Timestamp is in the future or non-positive
+48,109,4.0,2051202600,Timestamp is in the future or non-positive
+180,112,5.0,2051202600,Timestamp is in the future or non-positive
+210,180,4.0,2051202600,Timestamp is in the future or non-positive
+222,341,4.0,2051202600,Timestamp is in the future or non-positive
+809,358,3.0,2051202600,Timestamp is in the future or non-positive
+819,498,1.0,2051202600,Timestamp is in the future or non-positive
+48,481,4.0,2051202600,Timestamp is in the future or non-positive
+172,201,3.0,2051202600,Timestamp is in the future or non-positive
+768,170,4.0,2051202600,Timestamp is in the future or non-positive
+489,257,4.0,2051202600,Timestamp is in the future or non-positive
+883,410,1.0,2051202600,Timestamp is in the future or non-positive
+171,385,5.0,2051202600,Timestamp is in the future or non-positive
+859,133,5.0,2051202600,Timestamp is in the future or non-positive
+362,103,4.0,2051202600,Timestamp is in the future or non-positive
+245,53,3.0,2051202600,Timestamp is in the future or non-positive
+111,97,3.0,2051202600,Timestamp is in the future or non-positive
+940,226,4.0,2051202600,Timestamp is in the future or non-positive
+832,318,3.0,2051202600,Timestamp is in the future or non-positive
+590,284,3.0,2051202600,Timestamp is in the future or non-positive
+1000,262,4.0,2051202600,Timestamp is in the future or non-positive
+344,129,4.0,2051202600,Timestamp is in the future or non-positive
+837,409,3.0,2051202600,Timestamp is in the future or non-positive
+829,128,3.0,2051202600,Timestamp is in the future or non-positive
+999999,410,3.0,1723745028,Referential Integrity: user_id not found in users catalog
+999999,112,1.0,1749324289,Referential Integrity: user_id not found in users catalog
+999999,14,4.0,1758307043,Referential Integrity: user_id not found in users catalog
+999999,284,5.0,1736662072,Referential Integrity: user_id not found in users catalog
+999999,332,5.0,1741532174,Referential Integrity: user_id not found in users catalog
+999999,291,5.0,1727114716,Referential Integrity: user_id not found in users catalog
+999999,277,3.0,1718472721,Referential Integrity: user_id not found in users catalog
+999999,211,5.0,1719886132,Referential Integrity: user_id not found in users catalog
+999999,182,4.0,1716805548,Referential Integrity: user_id not found in users catalog
+999999,482,4.0,1718643731,Referential Integrity: user_id not found in users catalog
+999999,187,4.0,1708123621,Referential Integrity: user_id not found in users catalog
+999999,492,1.0,1737010650,Referential Integrity: user_id not found in users catalog
+999999,33,2.0,1719364931,Referential Integrity: user_id not found in users catalog
+999999,54,4.0,1712391390,Referential Integrity: user_id not found in users catalog
+999999,384,3.0,1749170798,Referential Integrity: user_id not found in users catalog
+999999,42,1.0,1758172145,Referential Integrity: user_id not found in users catalog
+999999,239,1.0,1736901175,Referential Integrity: user_id not found in users catalog
+999999,276,5.0,1763728263,Referential Integrity: user_id not found in users catalog
+999999,231,4.0,1722130536,Referential Integrity: user_id not found in users catalog
+999999,484,5.0,1751465185,Referential Integrity: user_id not found in users catalog
+999999,164,4.0,1761458831,Referential Integrity: user_id not found in users catalog
+999999,126,2.0,1736881310,Referential Integrity: user_id not found in users catalog
+999999,141,4.0,1742910871,Referential Integrity: user_id not found in users catalog
+999999,427,4.0,1748518349,Referential Integrity: user_id not found in users catalog
+999999,222,5.0,1739057564,Referential Integrity: user_id not found in users catalog
+999999,50,1.0,1704623672,Referential Integrity: user_id not found in users catalog
+999999,385,1.0,1759669641,Referential Integrity: user_id not found in users catalog
+999999,480,4.0,1735750668,Referential Integrity: user_id not found in users catalog
+999999,460,5.0,1721616800,Referential Integrity: user_id not found in users catalog
+999999,253,5.0,1757392920,Referential Integrity: user_id not found in users catalog
+999999,7,4.0,1725661773,Referential Integrity: user_id not found in users catalog
+999999,314,4.0,1713934706,Referential Integrity: user_id not found in users catalog
+999999,325,4.0,1739876004,Referential Integrity: user_id not found in users catalog
+999999,269,3.0,1745828096,Referential Integrity: user_id not found in users catalog
+999999,317,3.0,1727889374,Referential Integrity: user_id not found in users catalog
+999999,463,2.0,1719088366,Referential Integrity: user_id not found in users catalog
+999999,168,4.0,1734488148,Referential Integrity: user_id not found in users catalog
+999999,250,4.0,1748058767,Referential Integrity: user_id not found in users catalog
+999999,255,5.0,1743805541,Referential Integrity: user_id not found in users catalog
+999999,350,4.0,1726423447,Referential Integrity: user_id not found in users catalog
+999999,272,3.0,1722067803,Referential Integrity: user_id not found in users catalog
+999999,299,4.0,1718412345,Referential Integrity: user_id not found in users catalog
+999999,57,3.0,1741207510,Referential Integrity: user_id not found in users catalog
+999999,6,4.0,1710131042,Referential Integrity: user_id not found in users catalog
+999999,170,2.0,1708789215,Referential Integrity: user_id not found in users catalog
+999999,491,3.0,1732529590,Referential Integrity: user_id not found in users catalog
+999999,122,5.0,1738641383,Referential Integrity: user_id not found in users catalog
+999999,367,3.0,1760954420,Referential Integrity: user_id not found in users catalog
+999999,392,4.0,1717908082,Referential Integrity: user_id not found in users catalog
+999999,59,3.0,1716182702,Referential Integrity: user_id not found in users catalog
+999999,219,3.0,1748548259,Referential Integrity: user_id not found in users catalog
+999999,150,5.0,1754876982,Referential Integrity: user_id not found in users catalog
+999999,83,4.0,1746552956,Referential Integrity: user_id not found in users catalog
+999999,309,5.0,1748803559,Referential Integrity: user_id not found in users catalog
+999999,98,4.0,1736926748,Referential Integrity: user_id not found in users catalog
+999999,440,2.0,1739128226,Referential Integrity: user_id not found in users catalog
+999999,247,3.0,1742018072,Referential Integrity: user_id not found in users catalog
+999999,145,2.0,1714134524,Referential Integrity: user_id not found in users catalog
+999999,80,3.0,1764972405,Referential Integrity: user_id not found in users catalog
+999999,365,1.0,1740253859,Referential Integrity: user_id not found in users catalog
+999999,65,4.0,1708490994,Referential Integrity: user_id not found in users catalog
+999999,22,3.0,1736542403,Referential Integrity: user_id not found in users catalog
+999999,69,3.0,1704936281,Referential Integrity: user_id not found in users catalog
+999999,423,4.0,1728274407,Referential Integrity: user_id not found in users catalog
+999999,401,4.0,1735393021,Referential Integrity: user_id not found in users catalog
+999999,246,5.0,1743753384,Referential Integrity: user_id not found in users catalog
+999999,216,3.0,1731491416,Referential Integrity: user_id not found in users catalog
+999999,156,5.0,1742573925,Referential Integrity: user_id not found in users catalog
+999999,68,1.0,1743950772,Referential Integrity: user_id not found in users catalog
+999999,81,2.0,1738504716,Referential Integrity: user_id not found in users catalog
+999999,230,3.0,1753155999,Referential Integrity: user_id not found in users catalog
+999999,130,4.0,1712190076,Referential Integrity: user_id not found in users catalog
+999999,174,3.0,1735071618,Referential Integrity: user_id not found in users catalog
+999999,206,5.0,1735194458,Referential Integrity: user_id not found in users catalog
+999999,102,3.0,1714849667,Referential Integrity: user_id not found in users catalog
+999999,363,1.0,1723806421,Referential Integrity: user_id not found in users catalog
+999999,278,2.0,1717253963,Referential Integrity: user_id not found in users catalog
+999999,286,3.0,1721898236,Referential Integrity: user_id not found in users catalog
+999999,386,4.0,1720893924,Referential Integrity: user_id not found in users catalog
+999999,466,5.0,1751865999,Referential Integrity: user_id not found in users catalog
+999999,321,4.0,1762434228,Referential Integrity: user_id not found in users catalog
+999999,158,5.0,1734482089,Referential Integrity: user_id not found in users catalog
+999999,437,5.0,1765010271,Referential Integrity: user_id not found in users catalog
+999999,157,4.0,1717368568,Referential Integrity: user_id not found in users catalog
+999999,60,3.0,1733421360,Referential Integrity: user_id not found in users catalog
+999999,497,3.0,1712467278,Referential Integrity: user_id not found in users catalog
+999999,311,3.0,1711717057,Referential Integrity: user_id not found in users catalog
+999999,432,3.0,1752898716,Referential Integrity: user_id not found in users catalog
+999999,63,5.0,1746682262,Referential Integrity: user_id not found in users catalog
+999999,494,3.0,1712695644,Referential Integrity: user_id not found in users catalog
+970,888888,3.0,1711142156,Referential Integrity: item_id not found in items catalog
+271,888888,4.0,1763869691,Referential Integrity: item_id not found in items catalog
+38,888888,4.0,1754915708,Referential Integrity: item_id not found in items catalog
+935,888888,5.0,1750845434,Referential Integrity: item_id not found in items catalog
+755,888888,4.0,1760147148,Referential Integrity: item_id not found in items catalog
+425,888888,4.0,1755248552,Referential Integrity: item_id not found in items catalog
+304,888888,2.0,1730502989,Referential Integrity: item_id not found in items catalog
+607,888888,4.0,1751861290,Referential Integrity: item_id not found in items catalog
+729,888888,4.0,1729147596,Referential Integrity: item_id not found in items catalog
+279,888888,5.0,1721948624,Referential Integrity: item_id not found in items catalog
+419,888888,4.0,1732992634,Referential Integrity: item_id not found in items catalog
+302,888888,1.0,1712019663,Referential Integrity: item_id not found in items catalog
+915,888888,5.0,1754199071,Referential Integrity: item_id not found in items catalog
+228,888888,5.0,1766734142,Referential Integrity: item_id not found in items catalog
+509,888888,4.0,1709946551,Referential Integrity: item_id not found in items catalog
+446,888888,4.0,1706873234,Referential Integrity: item_id not found in items catalog
+864,888888,3.0,1750332163,Referential Integrity: item_id not found in items catalog
+910,888888,4.0,1720806750,Referential Integrity: item_id not found in items catalog
+877,888888,4.0,1745910871,Referential Integrity: item_id not found in items catalog
+437,888888,5.0,1729141355,Referential Integrity: item_id not found in items catalog
+64,888888,4.0,1704601528,Referential Integrity: item_id not found in items catalog
+791,888888,1.0,1755248731,Referential Integrity: item_id not found in items catalog
+445,888888,5.0,1721676237,Referential Integrity: item_id not found in items catalog
+741,888888,4.0,1727840756,Referential Integrity: item_id not found in items catalog
+154,888888,5.0,1740363292,Referential Integrity: item_id not found in items catalog
+906,888888,5.0,1751282069,Referential Integrity: item_id not found in items catalog
+599,888888,4.0,1749451508,Referential Integrity: item_id not found in items catalog
+479,888888,3.0,1720987450,Referential Integrity: item_id not found in items catalog
+997,888888,5.0,1723723446,Referential Integrity: item_id not found in items catalog
+855,888888,3.0,1734638556,Referential Integrity: item_id not found in items catalog
+887,888888,2.0,1749959919,Referential Integrity: item_id not found in items catalog
+187,888888,3.0,1759441621,Referential Integrity: item_id not found in items catalog
+143,888888,4.0,1726794385,Referential Integrity: item_id not found in items catalog
+886,888888,5.0,1707786813,Referential Integrity: item_id not found in items catalog
+697,888888,3.0,1719182163,Referential Integrity: item_id not found in items catalog
+174,888888,4.0,1727600226,Referential Integrity: item_id not found in items catalog
+231,888888,3.0,1750717400,Referential Integrity: item_id not found in items catalog
+23,888888,4.0,1713190088,Referential Integrity: item_id not found in items catalog
+731,888888,3.0,1723340291,Referential Integrity: item_id not found in items catalog
+474,888888,2.0,1751786107,Referential Integrity: item_id not found in items catalog
+655,888888,1.0,1715516269,Referential Integrity: item_id not found in items catalog
+747,888888,4.0,1753003458,Referential Integrity: item_id not found in items catalog
+644,888888,3.0,1732855274,Referential Integrity: item_id not found in items catalog
+646,888888,4.0,1754499129,Referential Integrity: item_id not found in items catalog
+459,888888,4.0,1704654875,Referential Integrity: item_id not found in items catalog
+818,888888,5.0,1728886351,Referential Integrity: item_id not found in items catalog
+44,888888,3.0,1761296093,Referential Integrity: item_id not found in items catalog
+460,888888,5.0,1716160201,Referential Integrity: item_id not found in items catalog
+771,888888,5.0,1760387426,Referential Integrity: item_id not found in items catalog
+693,888888,4.0,1709947035,Referential Integrity: item_id not found in items catalog
+356,888888,4.0,1734442639,Referential Integrity: item_id not found in items catalog
+964,888888,4.0,1729619095,Referential Integrity: item_id not found in items catalog
+432,888888,5.0,1717969113,Referential Integrity: item_id not found in items catalog
+292,888888,5.0,1714416799,Referential Integrity: item_id not found in items catalog
+178,888888,4.0,1728006277,Referential Integrity: item_id not found in items catalog
+890,888888,3.0,1739859752,Referential Integrity: item_id not found in items catalog
+686,888888,5.0,1761300742,Referential Integrity: item_id not found in items catalog
+469,888888,5.0,1724891646,Referential Integrity: item_id not found in items catalog
+666,888888,5.0,1763390701,Referential Integrity: item_id not found in items catalog
+124,888888,5.0,1711475978,Referential Integrity: item_id not found in items catalog
+133,888888,3.0,1760723449,Referential Integrity: item_id not found in items catalog
+916,888888,2.0,1714389345,Referential Integrity: item_id not found in items catalog
+641,888888,4.0,1758356206,Referential Integrity: item_id not found in items catalog
+537,888888,2.0,1755521616,Referential Integrity: item_id not found in items catalog
+464,888888,2.0,1753650184,Referential Integrity: item_id not found in items catalog
+103,888888,5.0,1749084202,Referential Integrity: item_id not found in items catalog
+777,888888,4.0,1728380820,Referential Integrity: item_id not found in items catalog
+238,888888,4.0,1747276125,Referential Integrity: item_id not found in items catalog
+449,888888,1.0,1722504977,Referential Integrity: item_id not found in items catalog
+470,888888,4.0,1726608038,Referential Integrity: item_id not found in items catalog
+808,888888,4.0,1729518918,Referential Integrity: item_id not found in items catalog
+84,888888,5.0,1735949157,Referential Integrity: item_id not found in items catalog
+669,888888,3.0,1732727355,Referential Integrity: item_id not found in items catalog
+947,888888,3.0,1707626811,Referential Integrity: item_id not found in items catalog
+735,888888,2.0,1735661035,Referential Integrity: item_id not found in items catalog
+945,888888,4.0,1710741625,Referential Integrity: item_id not found in items catalog
+839,888888,4.0,1757197198,Referential Integrity: item_id not found in items catalog
+68,888888,5.0,1708276093,Referential Integrity: item_id not found in items catalog
+586,888888,2.0,1724215325,Referential Integrity: item_id not found in items catalog
+939,888888,2.0,1736101300,Referential Integrity: item_id not found in items catalog
+769,888888,2.0,1760260895,Referential Integrity: item_id not found in items catalog
+240,888888,4.0,1737627764,Referential Integrity: item_id not found in items catalog
+556,888888,4.0,1733109007,Referential Integrity: item_id not found in items catalog
+465,888888,4.0,1724448465,Referential Integrity: item_id not found in items catalog
+850,888888,4.0,1721558034,Referential Integrity: item_id not found in items catalog
+27,888888,4.0,1704815760,Referential Integrity: item_id not found in items catalog
+172,888888,3.0,1743621675,Referential Integrity: item_id not found in items catalog
+341,888888,1.0,1720844635,Referential Integrity: item_id not found in items catalog
+963,888888,5.0,1744680427,Referential Integrity: item_id not found in items catalog
+800,888888,1.0,1712053917,Referential Integrity: item_id not found in items catalog
+603,888888,5.0,1740707467,Referential Integrity: item_id not found in items catalog
+519,888888,5.0,1725486012,Referential Integrity: item_id not found in items catalog
+544,888888,3.0,1730099989,Referential Integrity: item_id not found in items catalog
+708,888888,3.0,1737139883,Referential Integrity: item_id not found in items catalog
+130,888888,4.0,1748485895,Referential Integrity: item_id not found in items catalog
+957,888888,5.0,1755191437,Referential Integrity: item_id not found in items catalog

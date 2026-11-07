@@ -1,0 +1,52 @@
+{
+  "execution_timestamp": "2026-11-07T17:54:51.942073",
+  "status": "PASSED_WITH_QUARANTINE",
+  "summary": {
+    "total_raw_interactions": 28861,
+    "total_valid_interactions": 28265,
+    "total_quarantined_interactions": 594,
+    "quarantine_error_rate_pct": 2.06,
+    "total_valid_users": 1000,
+    "total_valid_items": 500,
+    "quarantined_users_count": 0,
+    "quarantined_items_count": 0
+  },
+  "checks": [
+    {
+      "check_name": "Missing Values Check",
+      "target": "interactions",
+      "failed_records": 116,
+      "status": "FAILED_QUARANTINED"
+    },
+    {
+      "check_name": "Duplicate Check",
+      "target": "interactions",
+      "failed_records": 62,
+      "status": "FAILED_QUARANTINED"
+    },
+    {
+      "check_name": "Rating Boundary Check",
+      "target": "interactions",
+      "failed_records": 115,
+      "status": "FAILED_QUARANTINED"
+    },
+    {
+      "check_name": "Timestamp Validity Check",
+      "target": "interactions",
+      "failed_records": 115,
+      "status": "FAILED_QUARANTINED"
+    },
+    {
+      "check_name": "User Referential Integrity",
+      "target": "interactions",
+      "failed_records": 116,
+      "status": "FAILED_QUARANTINED"
+    },
+    {
+      "check_name": "Item Referential Integrity",
+      "target": "interactions",
+      "failed_records": 116,
+      "status": "FAILED_QUARANTINED"
+    }
+  ]
+}

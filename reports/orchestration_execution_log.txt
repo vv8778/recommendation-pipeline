@@ -1,0 +1,83 @@
+================================================================================
+STARTING END-TO-END RECOMMENDATION SYSTEM DATA MANAGEMENT PIPELINE
+Timestamp: 2026-11-07 17:54:51
+Host OS: Windows
+Python Runtime: CPython 3.11.18 (.venv)
+================================================================================
+
+[STAGE 1/7] DATA INGESTION
+[Ingestion] Generating synthetic data: 1000 users, 500 items, 50000 interactions...
+[Ingestion] Injecting 576 intentional anomalous records for validation quarantine testing...
+[Ingestion] Successfully ingested raw data:
+  - Users: 1,000 records -> data/raw/users.csv
+  - Items: 500 records -> data/raw/items.csv
+  - Interactions: 28,861 records -> data/raw/interactions.csv
+
+[STAGE 2/7] DATA VALIDATION & QUALITY ASSURANCE
+[Validation] Starting automated data validation checks...
+[Validation] Automated validation complete:
+  - Total Raw Interactions: 28,861
+  - Quarantined Anomalous Records: 594 (2.06%)
+  - Clean Valid Records Passed: 28,265
+  - Quarantined files saved to: data/errors/
+  - Validation report generated at: reports/data_validation_report.md
+
+[STAGE 3/7] DATA PREPARATION & CHRONOLOGICAL TRAIN/TEST SPLIT
+[Preparation] Standardizing data formats and performing chronological split...
+[Preparation] Preparation and Time-Based Split complete:
+  - Train Set: 23,022 interactions (81.5%) -> data/processed/train.parquet
+  - Test Set: 5,243 interactions (18.5%) -> data/processed/test.parquet
+  - Clean Users: 1,000 -> data/processed/users_clean.parquet
+  - Clean Items: 500 -> data/processed/items_clean.parquet
+
+[STAGE 4/7] DATA TRANSFORMATION & DERIVED DATASETS
+[Transformation] Computing derived analytical datasets...
+[Transformation] Derived datasets successfully generated:
+  - User Activity Summary: 1,000 users -> data/processed/user_activity_summary.parquet
+  - Item Popularity Summary: 500 items -> data/processed/item_popularity_summary.parquet
+  - User-Item Matrix: 23,022 entries -> data/processed/user_item_matrix.parquet
+  - Index Mappings saved to: data/processed/index_mappings.json
+
+[STAGE 5/7] FEATURE ENGINEERING & FEATURE CATALOGING
+[Features] Building reusable user, item, and interaction feature stores...
+[Features] Feature Store successfully built:
+  - User Features: 13 columns -> data/features/user_features.parquet
+  - Item Features: 28 columns -> data/features/item_features.parquet
+  - Interaction Features: 14 columns -> data/features/training_interaction_features.parquet
+  - Feature Catalog: generated at reports/feature_catalog.md
+
+[STAGE 6/7] MODEL TRAINING & MLFLOW TRACKING
+[Training] Training recommendation models on 23,022 interactions...
+
+--- Training Model 1: Baseline Popularity Recommender ---
+  -> Baseline model saved to: models/baseline_popularity.pkl
+
+--- Training Model 2: Personalized Matrix Factorization (FunkSVD) ---
+[Training] Fitting Matrix Factorization (factors=20, epochs=20, lr=0.005, reg=0.02)...
+  - Epoch 05/20 | Train RMSE: 1.0931
+  - Epoch 10/20 | Train RMSE: 1.0465
+  - Epoch 15/20 | Train RMSE: 1.0025
+  - Epoch 20/20 | Train RMSE: 0.9536
+  -> Personalized model saved to: models/collaborative_svd.pkl
+
+[STAGE 7/7] MODEL EVALUATION & BENCHMARKING
+[Evaluation] Loading test interactions and models for benchmark evaluation...
+[Evaluation] Evaluating ranking metrics across 929 test users with relevant items...
+[Evaluation] Model comparison table successfully generated at reports/model_comparison.md
+
+================================================================================
+PIPELINE EXECUTION SUMMARY
+================================================================================
+Stage                          | Status     | Duration (s) | Output Details
+--------------------------------------------------------------------------------
+Data Ingestion                 | SUCCESS    | 0.14         | Ingested 28,861 interactions
+Data Validation                | SUCCESS    | 0.37         | Passed 28,265 / Quarantined 594 (2.06%)
+Data Preparation               | SUCCESS    | 0.34         | Train: 23,022 | Test: 5,243
+Data Transformation            | SUCCESS    | 0.21         | Generated User Summary, Item Popularity & User-Item Matrix
+Feature Engineering            | SUCCESS    | 0.58         | Cataloged 13 user & 28 item features
+Model Training                 | SUCCESS    | 15.89        | Trained Baseline Popularity & Matrix Factorization (FunkSVD)
+Model Evaluation               | SUCCESS    | 3.67         | Evaluated Precision@K, Recall@K, NDCG@K, Coverage, Diversity, RMSE, MAE
+--------------------------------------------------------------------------------
+Total Pipeline Runtime: 21.20 seconds
+ALL PIPELINE STAGES COMPLETED SUCCESSFULLY!
+================================================================================
